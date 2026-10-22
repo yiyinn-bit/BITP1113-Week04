@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../EX2_Conditions/EX2_Conditions.vcxproj" />
+  <Project Path="../Ex5_Hostel/Ex5_Hostel.vcxproj" />
+  <Project Path="../Ex6_Library/Ex6_Library.vcxproj" />
+  <Project Path="../Ex_Parcel/Ex_Parcel.vcxproj" />
+  <Project Path="../Ex_Toll/Ex_Toll.vcxproj" />
+  <Project Path="Week04LAB.vcxproj" />
+</Solution>
